@@ -20,3 +20,7 @@ This repository contains the frontend of an Expense and Budget Tracker applicati
 1. Clone this repository
 2. Run `npm install` to install dependencies
 3. Start the development server with `npm run dev`
+
+## Screenshots
+
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/28e6f611-fd4f-43d4-ba93-dd2dc9524bbf">
