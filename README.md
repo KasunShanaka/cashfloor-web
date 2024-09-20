@@ -1,6 +1,6 @@
 # Expense & Budget Tracker - Frontend
 
-This repository contains the frontend of an Expense and Budget Tracker application that detects and manages expenses from images of bills or text from bank statements. The application uses image and text recognition to extract expense data and automatically categorize it into predefined budget categories. Users can view their spending breakdown, manage budgets, and track their financial habits all in one place. This project is created only for demo purposes and contain only desktop user interfaces for now.
+This repository contains the frontend of an Expense and Budget Tracker application that detects and manages expenses from images of bills or text from bank statements. The application uses image and text recognition to extract expense data and automatically categorize it into predefined budget categories. Users can view their spending breakdown, manage budgets, and track their financial habits all in one place. This project is created only for demo purposes and contain only mobile user interfaces for now.
 
 ## Key Features
 
